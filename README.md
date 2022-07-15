@@ -14,7 +14,7 @@
   <p align="center">
   I'm Working about Web Development position Frontend Developer
     <br/>
-  I'm stuyding in mobile dev with flutter and dart
+  I'm studying in mobile dev with flutter and dart
   </p>
  </div>
 
