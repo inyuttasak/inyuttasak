@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inyuttasak&label=Profile%20views&color=0e75b6&style=flat" alt="inyuttasak" /> </p>
 
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47r48q54l1hnmqa76ax1ymh3rxov0q8w2mq45v1w6q&rid=giphy.gif&ct=s)" width="230">
+<img align='right' src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
