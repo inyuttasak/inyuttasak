@@ -13,6 +13,7 @@
   <h2 align="center"> 😎 About Me</h2>
   <p align="center">
   I'm Working about Web Development position Frontend Developer
+    <br/>
   I'm stuyding in mobile dev with flutter and dart
   </p>
  </div>
